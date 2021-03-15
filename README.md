@@ -1,16 +1,16 @@
-### Hi there 👋
+### 💖 Thanks for checking out my GitHub! 💖
 
-<!--
-**akaashnidhiss/akaashnidhiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer from Delhi Technological University, class of '23 :)
 
-Here are some ideas to get you started:
+#### 🛠️ Technologies 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=TypeScript&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tools-Passport-informational?style=flat&logo=P&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=Keras&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=orange)
+
+
