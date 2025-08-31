@@ -3,7 +3,7 @@
 I design and run **agentic GenAI platforms** that consultants use **every day**—multi-tenant, observable, and safe by default. Results: **8× throughput**, **~90% faster timelines**, 50+ enterprise clients.
 
 <details>
-  <summary><b>Highlights</b></summary>
+  <summary><b>Highlights - Click to see more!</b></summary>
 
 - AI Procurement Toolkit (LangChain + Azure + Databricks): 500k records ~2h; deployed across 50+ clients; supplier harmonization at tens of thousands vendors/month.
 - Supplier Benchmarking (RAG + React + SQL): NL query with AI correction; 3× faster supplier shortlists.
