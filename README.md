@@ -26,7 +26,7 @@ These systems are built to handle large client datasets, run reliably for many u
 - **Leadership & Reliability**  
   Beyond building, I ensure these platforms improve every week: monitoring performance, adding safeguards, and running evaluations. I frequently demo our work to Firm Partners and client executives, and I document outcomes so that our roadmap stays aligned with business needs.  
 
-  My guiding principle is build fast and experiment quickly, but know when to slow down to build systems that are reliable, observable, and reversible if things go wrong.
+  <b>My learnings:<b> My guiding principle is build fast and experiment quickly, but know when to slow down to build systems that are reliable, observable, and reversible if things go wrong.
 </details>
 
 
