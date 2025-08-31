@@ -13,7 +13,9 @@ These systems are built to handle large client datasets, run reliably for many u
   <b>Results:<b> Saved thousands of manual hours and ensuring consistent outputs every time.
 
 - **Supplier Benchmarking Platform**  
-  A full-stack web application that lets consultants search and compare suppliers in seconds. Instead of manually pulling data from spreadsheets, they can use a React dashboard to type natural-language queries (e.g. “show me top logistics suppliers in Europe”), which the system corrects and runs against an optimized SQL database. It also generates supplier profiles with real-time news, SWOT analysis, and benchmarks. This cut the time needed to prepare client-ready supplier lists to **one-third** of the old process.
+  A full-stack web application that lets consultants search and compare suppliers in seconds. Instead of manually pulling data from spreadsheets, they can use a React dashboard to type natural-language queries (e.g. “show me top logistics suppliers in Europe”), which the system corrects and runs against an optimized SQL database. It also generates supplier profiles with real-time news, SWOT analysis, and benchmarks.
+
+  <b>Results:<b> This cut the time needed to prepare client-ready supplier lists to **one-third** of the old process.
 
 - **Agentic AI Prototypes**  
   I’ve built “agentic” systems — AI that can plan, execute, and adapt like a junior consultant. For example, I designed an on-premise AI agent for a $200B retailer that reviews inventory purchases, adapts to changing approval rules, and works with evolving data schemas.  
