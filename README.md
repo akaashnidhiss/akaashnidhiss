@@ -7,7 +7,7 @@ These systems are built to handle large client datasets, run reliably for many u
   <summary><b>Highlights — Click to see details</b></summary>
 
 - **AI Procurement Toolkit**  
-  A suite of tools that helps consultants clean and organize massive amounts of client procurement data. It can process half a million records in about two hours, and has been deployed across 50+ global clients.  
+  A suite of tools that helps consultants clean and organize massive amounts of client procurement data. It can process half a million records in about two hours, and has been deployed in consulting engagements for 50+ global clients.  
   Consultants now rely on it to automatically match and harmonize supplier names, materials, and spend categories.
   <b>Results:<b> Saved thousands of manual hours and ensuring consistent outputs every time.
 
