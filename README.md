@@ -9,6 +9,7 @@ These systems are built to handle large client datasets, run reliably for many u
 - **AI Procurement Toolkit**  
   A suite of tools that helps consultants clean and organize massive amounts of client procurement data. It can process half a million records in about two hours, and has been deployed in consulting engagements for 50+ global clients.  
   Consultants now rely on it to automatically match and harmonize supplier names, materials, and spend categories.
+  
   <b>Results:<b> Saved thousands of manual hours and ensuring consistent outputs every time.
 
 - **Supplier Benchmarking Platform**  
@@ -17,6 +18,7 @@ These systems are built to handle large client datasets, run reliably for many u
 - **Agentic AI Prototypes**  
   I’ve built “agentic” systems — AI that can plan, execute, and adapt like a junior consultant. For example, I designed an on-premise AI agent for a $200B retailer that reviews inventory purchases, adapts to changing approval rules, and works with evolving data schemas.  
   I also created pipelines that extract product specifications from messy, unstructured spend data.
+  
   <b>Results:<b> Unlocked new ways for teams to aggregate and analyze information.
 
 - **Leadership & Reliability**  
